@@ -1,0 +1,6 @@
+.idea/
+venv/
+*.pyc
+airflow.db
+airflow-webserver.pid
+logs/
